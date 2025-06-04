@@ -4,6 +4,8 @@
 - Tanzania
 - Rwanda
 - Burundi
+- South Sudan
+- Ethiopia
 
 # Europe
 - Germany
