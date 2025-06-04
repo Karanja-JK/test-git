@@ -8,8 +8,12 @@
 - Ethiopia
 - Somalia
 - Eritrea
+- Malawi
+- South Africa
 
 # Europe
 - Germany
 - France
 - Portugal
+- Spain
+- Ukraine
