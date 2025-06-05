@@ -3,3 +3,5 @@
 - Europe
 - Asia
 - North America
+- South America
+- Antarctica
