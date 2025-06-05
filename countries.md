@@ -9,6 +9,7 @@
 - Somalia
 - Eritrea
 - Malawi
+- Namibia
 - South Africa
 
 # Europe
@@ -17,3 +18,4 @@
 - Portugal
 - Spain
 - Ukraine
+- United Kingdom
