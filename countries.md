@@ -19,3 +19,10 @@
 - Spain
 - Ukraine
 - United Kingdom
+
+
+# Asia
+- China
+- Japan
+- South Korea
+- North Korea
