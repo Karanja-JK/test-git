@@ -11,6 +11,9 @@
 - Malawi
 - Namibia
 - South Africa
+- Nigeria
+- Mozambique
+- Lesotho
 - Congo
 - The Democratic Republic of Congo
 
@@ -21,6 +24,7 @@
 - Spain
 - Ukraine
 - United Kingdom
+- Belgium
 - Austria
 
 # Asia
@@ -30,4 +34,7 @@
 - North Korea
 - Burma
 - India
+- Indonesia
+- Pakistan
+- Bangladesh
 - Kazakhstan
