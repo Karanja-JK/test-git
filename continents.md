@@ -1,7 +1,7 @@
 # Continents
 - Africa
-- Europe
+- Antarctica
 - Asia
+- Europe
 - North America
 - South America
-- Antarctica
