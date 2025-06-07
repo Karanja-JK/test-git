@@ -11,6 +11,8 @@
 - Malawi
 - Namibia
 - South Africa
+- Congo
+- The Democratic Republic of Congo
 
 # Europe
 - Germany
@@ -19,7 +21,7 @@
 - Spain
 - Ukraine
 - United Kingdom
-
+- Austria
 
 # Asia
 - China
@@ -28,3 +30,4 @@
 - North Korea
 - Burma
 - India
+- Kazakhstan
